@@ -69,5 +69,5 @@ Orice neînțelegeri sau dispute intre părțile semnatare, decurgând din înch
 Contractul a fost încheiat astăzi 00.01.2022 în două exemplare originale, câte unul pentru fiecare parte.
 
 
-BENEFICIAR 									FURNIZOR
-FIRMA 2										FIRMA 1
+                                      BENEFICIAR 									FURNIZOR
+                                      FIRMA 2                     FIRMA 1
